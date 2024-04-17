@@ -1,2 +1,2 @@
 # user_management
-Aplicação fullStack de gerenciamento de usuário. Desenvolvido nas linguagens C# e JS 
+Aplicação fullStack de gerenciamento de usuário.Que sera desenvolvido nas linguagens C# e JS 
